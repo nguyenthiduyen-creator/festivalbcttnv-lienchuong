@@ -1,0 +1,6 @@
+{
+  "name": "Festival Báo chí Truyền thông Nhân Văn - Liên Chuồng",
+  "description": "Cổng thông tin Festival Báo chí Truyền thông Nhân Văn (Liên Chuồng) - Sự kiện truyền thống do sinh viên Viện Đào tạo Báo chí và Truyền thông (SJC), Trường ĐH KHXH&NV tự tổ chức.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
